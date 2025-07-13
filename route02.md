@@ -1,4 +1,4 @@
-# ○○の通学経路
+# minoharaの通学経路
 
 [メンバー表に戻る](member.md#メンバー表)
 
@@ -6,5 +6,6 @@
 digraph {
     edge [dir=both]
     
+    自宅->八王子国際キャンパス [label=自家用車]
 }
 ```
